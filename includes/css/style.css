@@ -1,0 +1,27 @@
+body {
+  font-family: "fira Code";
+  font-size: 15px;
+  font-weight: 300;
+}
+
+li {
+  list-style: square;
+  color: #cdcdcd;
+  font-size: 15px;
+}
+
+ul {
+  padding-left: 70px;
+}
+
+ul.admin-links a {
+  color: #2626267e;
+}
+
+
+span {
+  background: rgba(221, 221, 221, 0.4);
+  padding: 2px 5px;
+  color: #3f3f3f;
+  border-radius: 5px;
+}
